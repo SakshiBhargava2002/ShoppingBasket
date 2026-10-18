@@ -1,0 +1,27 @@
+ShoppingBasket.sln
+  s_42115c13ba1cd1::t_a28c927f4d6b79 1-43
+src/ShoppingBasket.Console/Program.cs
+  s_42115c13ba1cd1::t_7c4f7335b1d16e 1-56
+src/ShoppingBasket.Console/ShoppingBasket.Console.csproj
+  s_42115c13ba1cd1::t_aa402fa7853718 1-14
+src/ShoppingBasket.Core/ShoppingBasket.Core.csproj
+  s_42115c13ba1cd1::t_d29964cfb78805 1-10
+tests/ShoppingBasket.Tests/ShoppingBasket.Tests.csproj
+  s_42115c13ba1cd1::t_04c97472b82222 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "58909719c57c93a117e2da5634de4865fccef9b6",
+  "prompts": {},
+  "sessions": {
+    "s_42115c13ba1cd1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f6c8e2b1-4e17-4668-a769-122d21b51ea9",
+        "model": "auto-smart"
+      },
+      "human_author": "sbhargava <sbhargava@Cogitate.com>"
+    }
+  }
+}
